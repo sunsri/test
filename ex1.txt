@@ -1,4 +1,4 @@
-a=a for apple
-b=b for ball
+a=a for america
+b=b for bank
 
 
